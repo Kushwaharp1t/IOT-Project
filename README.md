@@ -1,1 +1,1 @@
-# IOT-Project
+# Smart Agriculture and environmental monitoring
